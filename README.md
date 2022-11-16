@@ -1,4 +1,5 @@
 ## 너네집(YourHouse) 프로젝트 Front-end/Back-end 소개
+http://yourhome.s3-website.ap-northeast-2.amazonaws.com/
 
 - 라이프스타일 커뮤니티 및 커머스 사이트 [오늘의 집](https://ohou.se/) 클론 프로젝트
 - 짧은 프로젝트 기간동안 개발에 집중해야 하므로 커뮤니티 기능에 초점을 맞추어 개발하였습니다.
